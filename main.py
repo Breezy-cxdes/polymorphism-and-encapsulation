@@ -22,3 +22,12 @@ for animal in (cat1,dog1):
     animal.info()
     animal.make_sound()
     
+
+
+    # List of selling prices
+selling_prices = [900, 900, 1000]
+
+# Iterate through the prices and print them
+for price in selling_prices:
+    print(f"Selling Price: {price}")
+
